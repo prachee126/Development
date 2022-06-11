@@ -1,0 +1,35 @@
+#include<iostream>
+using namespace std;
+
+int CountCapital(char *);
+int CountSmall(char *);
+int CountSpaces(char *);
+int CountVowels(char *);
+void strlwrX(char *);
+void struperX(char *);
+void ToggleCase(char *);
+void ReverseString(char *);
+void strcpyXX(char *,char *);
+void strcatXX(char *,char *);
+int strlenx(char *);
+bool strcmpX(char *,char *);
+void DisplayAsciiTable();
+void DisplayDigits(char *);
+void ToggleCharacter(char );
+void Displaycharacters(char);
+void CheckSpecialSymbol(char);
+void CheckCapital(char);
+void CheckSmall(char);
+bool CheckPresence(char *,char);
+int CountFreq(char *,char);
+int CheckFirstOccurence(char *,char);
+int CheckLastOccurence(char *,char);
+void CheckDivision(char);
+void strcpyX(char * , char *);
+void strncpyX(char *,char *,int );
+void CpyCapitals(char *,char *);
+void CpySmall(char *,char *);
+void strcatX(char *,char *);
+void strcpyreverse(char *,char *);
+void strcpyRmvSpaces(char *,char *);
+void strcpyChangingCase(char *,char *);
